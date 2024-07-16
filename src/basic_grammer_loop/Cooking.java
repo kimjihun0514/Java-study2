@@ -6,7 +6,7 @@ public class Cooking {
 		// 코드의 핵심 코어(엔진)을 만들때 종종 사용.
 		// if 와 switch 혼동 주의.
 		// 라면 끓이기 순서.
-		int step = 1;
+		int step = 3;
 		
 		switch(step) {
 		case 0:
